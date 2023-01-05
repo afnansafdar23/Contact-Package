@@ -5,13 +5,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Contact\\": "src/"
+            "Afnan\\Contact\\": "package/contact/src/"
         }
     },
     "extra": {
     "laravel": {
         "providers": [
-            "Contact\\ContactServiceProvider"
+            "Afnan\\Contact\\ContactServiceProvider"
         ]
     }
 },
@@ -21,6 +21,5 @@
             "email": "afnan.centosquare@gmail.com"
         }
     ],
-     "minimum-stability": "dev",
     "require": {}
 }
