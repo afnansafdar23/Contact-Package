@@ -8,6 +8,13 @@
             "Afnan\\Contact\\": "package/contact/src/"
         }
     },
+    "extra": {
+    "laravel": {
+        "providers": [
+            "Afnan\\Contact\\ContactServiceProvider"
+        ]
+    }
+},
     "authors": [
         {
             "name": "afnansafdar23",
