@@ -3,9 +3,10 @@
     "description": "This Package is used to make contact form to any website",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Afnan\\Contact\\": "package/contact/src/"
+            "Afnan\\Contact\\": "src/"
         }
     },
     "extra": {
