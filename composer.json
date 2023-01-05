@@ -21,5 +21,6 @@
             "email": "afnan.centosquare@gmail.com"
         }
     ],
+     "minimum-stability": "dev",
     "require": {}
 }
