@@ -5,13 +5,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Afnan\\Contact\\": "package/contact/src/"
+            "Contact\\": "src/"
         }
     },
     "extra": {
     "laravel": {
         "providers": [
-            "Afnan\\Contact\\ContactServiceProvider"
+            "Contact\\ContactServiceProvider"
         ]
     }
 },
